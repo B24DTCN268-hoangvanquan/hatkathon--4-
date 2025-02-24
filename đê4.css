@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    position:absolute;
+}
+.header{
+    font-size: 30px ;
+    display: flex;
+    text-align: center;
+    height: 30px;
+    margin-top: 20px ;
+    margin-left: 110px ;
+    gap: 300px ;
+    margin-bottom: 10px ;
+    
+}
+.fa-brands{ 
+    font-size: 50px ;
+    padding-left: 70px ;
+}
+a{
+    color: black;
+    text-decoration: none;
+    padding-left: 30px ;
+}
+button{
+    padding: 10px ;
+    color: white;
+    background-color: black;
+    border-radius: 5px ;
+}
+.main1{
+    display: flex;
+    height: 716px ;
+    margin-top: 50px ;
+    margin-left: 20px ;
+}
+p{
+    opacity: 0.5;
+    padding-left: 50px ;
+}
+.class2{
+    width: 50%;
+    height: 100px ;
+    padding-right: 20px ;
+}
+.main2{
+    
+    width: 1440px ;
+    margin-bottom: 100px ;
+}
+h1{
+    text-align: center;
+    padding: 30px ;
+    font-size:70px ;
+}
+.class3{
+    display: flex;
+    padding-left: 100px ;
+    gap: 80px ;
+    padding-bottom: 20px ;
+}
+.item{
+    width: 186px ;
+    height: 186px;
+    background-color: beige;
+}
+.class4 {
+    display: flex;
+    padding-left: 100px;
+    gap: 80px;
+}
+.contai{
+    background-color: rgb(16, 16, 16);
+    padding: 20px ;
+    padding-left: 50px ;
+    color: white;
+}
+.item1{
+    border: 1px solid rgb(188, 187, 187) ;
+    border-radius: 5px ;
+    margin: 10px ;
+    padding: 10px ;
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 50px ;
+    padding-bottom: 20px ;
+    padding-left: 80px ;
+    display: flex;
+}
+.footer1{
+    width: 80%;
+}
+
